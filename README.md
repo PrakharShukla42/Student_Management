@@ -85,7 +85,7 @@ Visit: [http://localhost:3000/student](http://localhost:3000/student)
 ## Colaborater
 - **Ashita Varhsney
 - **Vanshika Vanshu
---**Yashraj Varshney
+- **Yashraj Varshney
 
 ## 📜 License
 This project is crated officially by Prakhar Shukla.
