@@ -72,7 +72,7 @@ mongoose.connect('mongodb://127.0.0.1:27017/student_management', {
 
 5. **Run the Application**  
 ```bash
-    node app.js
+    node index.js
 ```
 Visit: [http://localhost:3000/student](http://localhost:3000/student)
 
@@ -82,8 +82,6 @@ Visit: [http://localhost:3000/student](http://localhost:3000/student)
 - **Edit Student:** Click the "Edit" link next to a student to modify their information.
 - **Delete Student:** Click the "Delete" link to remove a student from the database.
 
-## 🤝 Contributing
-Feel free to fork this repository and contribute to this project by submitting a pull request. Any improvements are welcome!
 
 ## 📜 License
 This project is crated officially by Prakhar Shukla.
