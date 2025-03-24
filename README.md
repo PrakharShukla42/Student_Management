@@ -82,6 +82,10 @@ Visit: [http://localhost:3000/student](http://localhost:3000/student)
 - **Edit Student:** Click the "Edit" link next to a student to modify their information.
 - **Delete Student:** Click the "Delete" link to remove a student from the database.
 
+## Colaborater
+- **Ashita Varhsney
+- **Vanshika Vanshu
+--**Yashraj Varshney
 
 ## 📜 License
 This project is crated officially by Prakhar Shukla.
